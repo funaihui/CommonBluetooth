@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="already_connect">已经配对的设备:</string>
+    <string name="searchDevice">搜索到的设备：</string>
+    <string name="startSearch">开始搜索设备</string>
+    <string name="openSearch">启用可见测性</string>
+    <string name="sendMessage">发送消息</string>
+</resources>
